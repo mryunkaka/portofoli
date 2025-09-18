@@ -4,7 +4,6 @@
 
 [![Profil](https://img.shields.io/badge/GitHub-mryunkaka-181717?logo=github&logoColor=white)](https://github.com/mryunkaka)
 [![Lokasi](https://img.shields.io/badge/Lokasi-Indonesia-blue)](#)
-[![Bahasa](https://img.shields.io/badge/ID-EN-bilingual-brightgreen)](#)
 
 <!-- Tech Logos -->
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -15,6 +14,8 @@
 ![Hikvision](https://img.shields.io/badge/Hikvision-C8102E?logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?logo=ubiquiti&logoColor=white)
 ![Synology NAS](https://img.shields.io/badge/Synology-NAS-333333?logo=synology&logoColor=white)
+![Ruijie](https://img.shields.io/badge/Ruijie-Networks-FF0000?logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?logo=ubiquiti&logoColor=white)
 
 > Saya membangun aplikasi Laravel full-stack sekaligus terbiasa menangani masalah nyata di dunia jaringan: routing MikroTik, link wireless point-to-point, VLAN, NAT, SMB share, hingga layanan on-prem. Saya juga berpengalaman dalam instalasi CCTV dan Synology cloud server. Saya senang menyelesaikan masalah secara menyeluruh—dari logika backend sampai packet trace di jaringan.
 
