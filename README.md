@@ -2,9 +2,19 @@
 
 *Programmer • Troubleshooter Jaringan & Sistem • Installer CCTV & Cloud Server*
 
-[![Profil](https://img.shields.io/badge/GitHub-mryunkaka-181717?logo=github\&logoColor=white)](https://github.com/mryunkaka)
+[![Profil](https://img.shields.io/badge/GitHub-mryunkaka-181717?logo=github&logoColor=white)](https://github.com/mryunkaka)
 [![Lokasi](https://img.shields.io/badge/Lokasi-Indonesia-blue)](#)
 [![Bahasa](https://img.shields.io/badge/ID-EN-bilingual-brightgreen)](#)
+
+<!-- Tech Logos -->
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-0EA5E9?logo=react&logoColor=white)
+![Winbox](https://img.shields.io/badge/Winbox-MikroTik-lightgrey)
+![Fortigate](https://img.shields.io/badge/Fortigate-F7323F?logo=fortinet&logoColor=white)
+![Hikvision](https://img.shields.io/badge/Hikvision-C8102E?logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?logo=ubiquiti&logoColor=white)
+![Synology NAS](https://img.shields.io/badge/Synology-NAS-333333?logo=synology&logoColor=white)
 
 > Saya membangun aplikasi Laravel full-stack sekaligus terbiasa menangani masalah nyata di dunia jaringan: routing MikroTik, link wireless point-to-point, VLAN, NAT, SMB share, hingga layanan on-prem. Saya juga berpengalaman dalam instalasi CCTV dan Synology cloud server. Saya senang menyelesaikan masalah secara menyeluruh—dari logika backend sampai packet trace di jaringan.
 
