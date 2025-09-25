@@ -118,7 +118,7 @@
 
 * **GitHub:** @mryunkaka
 * **Email:** [mryunkaka@gmail.com](mailto:mryunkaka@gmail.com)
-* **LinkedIn:** (tambahkan link)
+* **LinkedIn:** https://www.linkedin.com/in/saidadam
 
 Jika Anda butuh bantuan membangun aplikasi Laravel, menyiapkan jaringan, instalasi CCTV, atau setup Synology cloud server—ayo ngobrol.
 
